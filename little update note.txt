@@ -1,0 +1,3 @@
+probably we will just pull all the data to python.
+Both from GoogleSpreadsheets and Sql servers and vice versa. And it makes the whole process of commiting the files and data to github a lot more easy. 
+To sum up, I will try to use phyton as the universal connector and access all other files and servers.
